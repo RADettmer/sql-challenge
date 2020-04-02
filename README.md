@@ -14,3 +14,5 @@ Files in EmployeeSQL folder
 5. Bonus_Pandas - jupyter notebook to generate graphs for salary ranges and average salary by title
 6. salary_histogram.png - graph showing salary ranges for employees
 7. avg_salary_title.png - graph showing average salary by title
+
+Please note, the keys.py file for the Bonus_Pandas was not loaded to this repository.
