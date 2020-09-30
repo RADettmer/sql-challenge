@@ -2,7 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/DCHqkE
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
--- DB schema diagram, Randy Dettmer 3/31/2020.
+-- DB schema diagram, emplyee_schema.sql Randy Dettmer 2020/04/01
 -- drop table if they exist
 
 DROP TABLE IF EXISTS departments;
@@ -15,7 +15,7 @@ DROP TABLE IF EXISTS titles;
 -- create tables
 
 CREATE TABLE "departments" (
-    "dept_no" int   NOT NULL,
+    "dept_no" varchar   NOT NULL,
     "dept_name" varchar NOT   NULL,
     CONSTRAINT "pk_departments" PRIMARY KEY (
         "dept_no"
@@ -24,7 +24,7 @@ CREATE TABLE "departments" (
 
 CREATE TABLE "dept_emp" (
     "emp_no" int   NOT NULL,
-    "dept_no" int   NOT NULL,
+    "dept_no" varchar   NOT NULL,
     "from_date" date   NOT NULL,
     "to_date" date   NOT NULL
 );
@@ -37,8 +37,10 @@ CREATE TABLE "salaries" (
 );
 
 CREATE TABLE "dept_manager" (
-    "dept_no" int   NOT NULL,
-    "emp_no" int   NOT NULL
+    "dept_no" varchar   NOT NULL,
+    "emp_no" int   NOT NULL,
+	"from_date" date NOT NULL,
+	"to_date" date NOT NULL
 );
 
 CREATE TABLE "employees" (
@@ -77,4 +79,12 @@ REFERENCES "employees" ("emp_no");
 
 ALTER TABLE "titles" ADD CONSTRAINT "fk_titles_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "employees" ("emp_no");
+
+-- verify tables
+SELECT * FROM departments;
+SELECT * FROM dept_emp;
+SELECT * FROM dept_manager;
+SELECT * FROM employees;
+SELECT * FROM salaries;
+SELECT * FROM titles;
 
