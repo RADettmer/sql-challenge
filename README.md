@@ -17,5 +17,6 @@ Goals:
 
 1. avg_salary_title.png - graph showing average salary by title
 2. salary_histogram.png - graph showing salary ranges for employees
+3. salary_histogram.png - graph showing salary ranges for employees
 
 Please note, the keys.py file for the Bonus_Pandas was not loaded to this repository.
