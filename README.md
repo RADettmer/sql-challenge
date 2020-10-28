@@ -1,11 +1,11 @@
-SQL Homework - Employee Database: A Myster in Two Parts
+#SQL Homework - Employee Database: A Myster in Two Parts
 
 Goals:
 1. Data Modeling
 2. Data Engineering
 3. Data Analysis
 
-Files in EmployeeSQL folder
+#Files in EmployeeSQL folder
 
 1. data model diagram.png - shows the ERD of this data base in graphical form
 2. data model.pdf - shows the ERD in in text form
