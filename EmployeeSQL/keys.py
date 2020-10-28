@@ -1,4 +1,4 @@
-# key file for SQL Homework - Randy Dettmer 2020/04/01
+# key.py file for SQL Homework - Randy Dettmer 2020/04/01
 # postgress user 
 pg_user = "postgres"
 
