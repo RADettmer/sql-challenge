@@ -19,5 +19,6 @@ Goals:
 ![alt text](https://github.com/RADettmer/SQL_CHALLENGE/blob/master/Images/data model diagram.png)
 3. data model.pdf - shows the ERD in in text form
 4. salary_histogram.png - graph showing salary ranges for employees
+![alt text](https://github.com/RADettmer/SQL_CHALLENGE/blob/master/Images/salary_historgram.png)
 
 Please note, the keys.py file for the Bonus_Pandas was not loaded to this repository.
