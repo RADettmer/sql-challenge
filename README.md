@@ -27,7 +27,7 @@
 
 4. salary_histogram.png - graph showing salary ranges for employees
 
-![alt text](https://github.com/RADettmer/sql-challenge/blob/master/Images/salary_historgram.png)
+![alt text](https://github.com/RADettmer/sql-challenge/blob/master/Images/salary_histogram.png)
 
 ## Notes
 <p> The keys.py file for the Bonus_Pandas was not loaded to this repository. </p>
