@@ -17,13 +17,13 @@
 
 ![alt text](https://github.com/RADettmer/sql-challenge/blob/master/Images/avg_salary_title.png)
 
-2. data model diagram.png - shows the ERD of this data base in graphical form
+2. data_model_diagram.png - shows the ERD of this data base in graphical form
 
 ![alt text](https://github.com/RADettmer/sql-challenge/blob/master/Images/data_model_diagram.png)
 
-3. data model.pdf - shows the ERD in in text form
+3. data_model.pdf - shows the ERD in in text form
 
-![alt text](https://github.com/RADettmer/sql-challenge/blob/master/Images/data_model.pdf)
+[ERD (/Images)](/Images)
 
 4. salary_histogram.png - graph showing salary ranges for employees
 
