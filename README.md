@@ -14,15 +14,19 @@
 ## Files in Images Folder
 
 1. avg_salary_title.png - graph showing average salary by title
+
 ![alt text](https://github.com/RADettmer/SQL_CHALLENGE/blob/master/Images/avg_salary_title.png)
 
 2. data model diagram.png - shows the ERD of this data base in graphical form
+
 ![alt text](https://github.com/RADettmer/SQL_CHALLENGE/blob/master/Images/data model diagram.png)
 
 3. data model.pdf - shows the ERD in in text form
+
 ![alt text](https://github.com/RADettmer/SQL_CHALLENGE/blob/master/Images/data model.pdf)
 
 4. salary_histogram.png - graph showing salary ranges for employees
+
 ![alt text](https://github.com/RADettmer/SQL_CHALLENGE/blob/master/Images/salary_historgram.png)
 
 ## Notes
