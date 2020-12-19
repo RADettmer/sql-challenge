@@ -1,4 +1,4 @@
-# <div align="center">**SQL Homework - Employee Database: A Myster in Two Parts**<div>
+# <div align="center">**SQL Homework - Employee Database: Myster in Two Parts**<div>
 
 ## Goals:
 1. Data Modeling
