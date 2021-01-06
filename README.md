@@ -23,8 +23,7 @@
 
 3. data_model.pdf - shows the ERD in in text form
 
-![ERD](Images/data_model.pdf)
-<image src="https://github.com/RADettmer/sql-challenge/blob/master/Images/data_model.pdf"/>
+link here . . .
 
 4. salary_histogram.png - graph showing salary ranges for employees
 
