@@ -23,7 +23,7 @@
 
 3. data_model.pdf - shows the ERD in in text form
 
-link here . . .
+[data_model File (data files/data_model.pdf)](data_model.pdf)
 
 4. salary_histogram.png - graph showing salary ranges for employees
 
